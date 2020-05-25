@@ -15,7 +15,8 @@ RUN pip3 install \
 	sphinxcontrib-plantuml \
 	sphinxcontrib-manpage \
 	sphinxcontrib-seqdiag \
-	sphinxcontrib-spelling
+	sphinxcontrib-spelling \
+	sphinxcontrib-taglist
 
 RUN rm -rf /var/lib/apt/lists/*
 
