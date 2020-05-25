@@ -6,7 +6,8 @@ RUN apt-get update && apt-get install -y \
 	locales \
 	python3-pip \
 	enchant \
-	plantuml
+	plantuml \
+	python3-sphinx
 
 RUN pip3 install \
 	sphinx_rtd_theme \
