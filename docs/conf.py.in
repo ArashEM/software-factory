@@ -46,7 +46,7 @@ extensions = [
     'sphinxcontrib.seqdiag',
     'sphinxcontrib.actdiag',
     'sphinxcontrib.spelling',
-    'sphinxexts.taglist'
+    'sphinxcontrib.taglist'
 ]
 
 # Substitutions for common names. Key is replaced value in the text of all .rst
